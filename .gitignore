@@ -1,0 +1,15 @@
+__pycache__/
+
+app_back_end/__pycache__/
+
+app_back_end/api/__pycache__/
+
+app_back_end/migrations/__pycache__/
+
+back_end/__pycache__/
+
+venv/
+
+anotacoes.txt
+
+config.py
